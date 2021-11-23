@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C#, Python and HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
-- Email: denis.dolganov@gmail.com 
-- Discord: dolganod #3863
+Email: denis.dolganov@gmail.com 
+Discord: dolganod #3863
 
 <!---
 notsaltypepper/notsaltypepper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
