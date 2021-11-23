@@ -5,9 +5,6 @@
 - 📫 How to reach me: 
 - Email: denis.dolganov@gmail.com 
 - Discord: dolganod #3863
--                    
--   
--     
 
 <!---
 notsaltypepper/notsaltypepper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
